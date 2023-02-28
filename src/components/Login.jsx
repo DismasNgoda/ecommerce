@@ -17,7 +17,7 @@ function Login() {
         {/* Side div */}
         <div class="p-4 py-6 text-white bg-blue-500 md:w-80 md:flex-shrink-0 md:flex md:flex-col md:items-center md:justify-evenly">
           <div class="my-3 text-4xl font-bold tracking-wider text-center">
-            <a href="#">LOGO</a>
+            <a href="#">Compangy LOGO</a>
           </div>
           <p class="mt-6 font-normal text-center text-gray-300 md:mt-0">
             Some text, or I expand the logo to stretch this space.
